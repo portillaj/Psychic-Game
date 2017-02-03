@@ -1,0 +1,42 @@
+html {
+	background-image: url('../images/psychic-background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100%;
+}
+body {
+	color: #3dc1c7;
+	font-family: 'Bahiana', cursive;
+}
+
+p, h1, h2 {
+	padding-left: 30px;
+}
+
+.container {
+	width: 35%;
+	border: 3px solid white;
+	opacity: .9;
+	margin-left: 30px;
+}
+
+p {
+	font-size: 30px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+h2 {
+	color: #cbdb12;
+	font-size: 35px;
+	text-decoration: underline;
+}
+
+audio {
+	display: none;
+}
+
